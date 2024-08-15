@@ -13,28 +13,10 @@
 
 1. **Clone the Repository**:
 
-    ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
-    ```
-
 2. **Navigate to the Project Directory**:
 
-    ```bash
-    cd tic-tac-toe
-    ```
-
 3. **Compile the Java Files**:
-
-    ```bash
-    javac TicTacToe.java
-    ```
-
 4. **Run the Application**:
-
-    ```bash
-    java TicTacToe
-    ```
-
 ## Usage
 
 1. Launch the application to select the game mode (Single-Player or Multiplayer).
